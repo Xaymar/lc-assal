@@ -51,7 +51,7 @@ MonoBehaviour:
   OverwriteWeather: 0
   OverwriteWeatherType: -1
   RouteWord: assal
-  RoutePrice: 0
+  RoutePrice: 450
   BoughtComment: Welcome to Assal. Please leave your sanity at the door.
   FactorySizeMultiplier: 2
   FireExitsAmountOverwrite: 11
