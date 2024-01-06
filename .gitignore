@@ -71,5 +71,16 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-
+# Pasted Content
+/Assets/Mods/LethalExpansion/*
+/Assets/Mods/LethalExpansion.meta
+/Assets/TextMesh Pro/*
+/Assets/TextMesh Pro.meta
+/Assets/AssetBundles/*
+/Assets/AssetBundles.meta
 /Assets/SampleMods
+/Assets/SampleMods.meta
+/Assets/Plugins/LethalSDK*
+/Assets/Plugins/com.xaymar.lethalcompany*
+/Assets/Settings/*
+/Assets/Settings.meta
