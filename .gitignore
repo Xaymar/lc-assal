@@ -84,5 +84,5 @@ crashlytics-build.properties
 /Assets/Plugins/com.xaymar.lethalcompany*
 /Assets/Settings/*
 /Assets/Settings.meta
-/pack/*.zip
-/pack/*.lem
+*.zip
+*.lem

@@ -26,3 +26,6 @@ Once part of a massive colonisation plan, now its just a shell of its former sel
 > - Attempted to shrink the file size by removing unused assets. Didn't work.
 > - Fixed many outside objects spawning halfway into the ground.
 > - Fixed ladder exits being visible through fog.
+>
+> ## 1.1.1
+> - Change icon.png size so that Thunderstore stops whining about it.
