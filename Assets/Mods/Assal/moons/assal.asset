@@ -26,7 +26,7 @@ MonoBehaviour:
     to billions of people. Now it's completely abandoned and taken over by wild life.
   PlanetVideo: {fileID: 0}
   RiskLevel: A
-  TimeToArrive: 2.39
+  TimeToArrive: 3
   DaySpeedMultiplier: 1
   PlanetHasTime: 1
   _RandomWeatherTypes:
@@ -53,7 +53,7 @@ MonoBehaviour:
   RouteWord: assal
   RoutePrice: 450
   BoughtComment: Welcome to Assal. Please leave your sanity at the door.
-  FactorySizeMultiplier: 2
+  FactorySizeMultiplier: 2.5
   FireExitsAmountOverwrite: 11
   _DungeonFlowTypes:
   - ID: 0
@@ -109,10 +109,10 @@ MonoBehaviour:
     SpawnWeight: 2
   - ObjectName: tape
     SpawnWeight: 20
-  MinScrap: 4
-  MaxScrap: 40
+  MinScrap: 20
+  MaxScrap: 100
   LevelAmbienceClips: Level1TypeAmbience
-  MaxEnemyPowerCount: 15
+  MaxEnemyPowerCount: 20
   _Enemies:
   - EnemyName: Centipede
     SpawnWeight: 100
@@ -483,7 +483,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-  MaxOutsideEnemyPowerCount: 10
+  MaxOutsideEnemyPowerCount: 12
   MaxDaytimeEnemyPowerCount: 5
   _OutsideEnemies:
   - EnemyName: MouthDog
