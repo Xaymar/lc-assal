@@ -152,7 +152,7 @@ GameObject:
   - component: {fileID: 5685111413248362678}
   - component: {fileID: 811675349399442070}
   - component: {fileID: 100128496390164540}
-  m_Layer: 13
+  m_Layer: 9
   m_Name: trigger
   m_TagString: InteractTrigger
   m_Icon: {fileID: 0}

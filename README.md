@@ -17,6 +17,9 @@ Once part of a massive colonisation plan, now its just a shell of its former sel
 - Custom made models and textures by Xaymar
 
 # Changelog
+> ## 1.2.1
+> - Marked the interactable part of the ladder as interactive now.
+>
 > ## 1.2.0
 > - Increased price from 450 to 500.
 > - Updated ingame description to match the mod description

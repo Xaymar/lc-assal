@@ -1,7 +1,7 @@
 {
     "name": "Assal",
     "description": "A new moon.",
-    "version_number": "1.2.0",
+    "version_number": "1.2.1",
     "website_url": "https://github.com/xaymar/lc-assal",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
