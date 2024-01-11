@@ -15,15 +15,14 @@ MonoBehaviour:
   modName: Assal
   version:
     Major: 1
-    Minor: 1
+    Minor: 2
     Build: 0
     Revision: 0
-  serializedVersion: 1.1.0.0
+  serializedVersion: 1.2.0.0
   author: Xaymar
-  description: "Once a planet full of life, now an abandoned wasteland taken over
-    by wild flora and fauna. \n\nAssets used :\n- https://assetstore.unity.com/packages/tools/modeling/realtime-csg-69542\n-
-    https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529\n-
-    https://www.cgtrader.com/items/4230178"
+  description: Once part of a massive colonisation plan, now its just a shell of
+    its former self. Nature has taken over, manmade structures have fallen into disrepair,
+    and you're here to pick apart what hasn't already. Good luck.
   scraps: []
   moons:
   - {fileID: 11400000, guid: 8cf5e2df931afc843b7be597706420b8, type: 2}

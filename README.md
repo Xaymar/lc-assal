@@ -6,7 +6,7 @@ Once part of a massive colonisation plan, now its just a shell of its former sel
 - One main entrance.
 - 4 fire exits.
 - Hedge "maze".
-- A working ladder (currently requires a mod because it doesn't export correctly otherwise).
+- A working ladder with a broken icon.
 
 ## Assets used:
 - https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529 (Terrain, Textures)
@@ -17,9 +17,18 @@ Once part of a massive colonisation plan, now its just a shell of its former sel
 - Custom made models and textures by Xaymar
 
 # Changelog
-> ## 1.0.0
-> - Initial Release
-> 
+> ## 1.2.0
+> - Increased price from 450 to 500.
+> - Updated ingame description to match the mod description
+> - Bees no longer block one fire exit all the time.
+> - Some fire exits were migrated to encourage more exploration.
+> - The ladder(s) no longer require a separate mod and now export correctly.
+> - Navigation near ladders is no longer broken.
+> - The terrain no longer has magic holes in it that drop you on top of the dungeon. Oops.
+>
+> ## 1.1.1
+> - Change icon.png size so that Thunderstore stops whining about it.
+>
 > ## 1.1.0
 > - Added a navigation mesh, since it is required for many things.
 > - The sun is no longer located on the planet and has been placed back into the sky.
@@ -27,5 +36,5 @@ Once part of a massive colonisation plan, now its just a shell of its former sel
 > - Fixed many outside objects spawning halfway into the ground.
 > - Fixed ladder exits being visible through fog.
 >
-> ## 1.1.1
-> - Change icon.png size so that Thunderstore stops whining about it.
+> ## 1.0.0
+> - Initial Release

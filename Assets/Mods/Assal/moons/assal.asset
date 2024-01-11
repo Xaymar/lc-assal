@@ -22,15 +22,19 @@ MonoBehaviour:
   SpawnEnemiesAndScrap: 1
   PlanetName: Assal
   MainPrefab: {fileID: 2016254630306542993, guid: 22ed40326763d6b4cbeeab92104f516e, type: 3}
-  PlanetDescription: During the time of rapid expansion, this planet used to be home
-    to billions of people. Now it's completely abandoned and taken over by wild life.
+  PlanetDescription: 'Once part of a massive colonisation plan, now its just a shell
+    of its former self. Nature has taken over, manmade structures have fallen into
+    disrepair, and you''re here to pick apart what hasn''t already.
+
+
+    Good luck.'
   PlanetVideo: {fileID: 0}
   RiskLevel: A
   TimeToArrive: 3
   DaySpeedMultiplier: 1
   PlanetHasTime: 1
   _RandomWeatherTypes:
-  - Weather: -1
+  - Weather: 0
     WeatherVariable1: 0
     WeatherVariable2: 0
   - Weather: 1
@@ -51,7 +55,7 @@ MonoBehaviour:
   OverwriteWeather: 0
   OverwriteWeatherType: -1
   RouteWord: assal
-  RoutePrice: 450
+  RoutePrice: 500
   BoughtComment: Welcome to Assal. Please leave your sanity at the door.
   FactorySizeMultiplier: 2.5
   FireExitsAmountOverwrite: 11
@@ -576,7 +580,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   DaytimeEnemiesProbabilityRange: 5
   LevelIncludesSnowFootprints: 0
-  serializedRandomWeatherTypes: -1,0,0;1,0,0;2,1,4;3,1,0;4,-4,5;5,1,0
+  serializedRandomWeatherTypes: 0,0,0;1,0,0;2,1,4;3,1,0;4,-4,5;5,1,0
   serializedDungeonFlowTypes: 0,20;1,40
   serializedSpawnableScrap: Cog1,80;EnginePart1,90;FishTestProp,12;MetalSheet,88;FlashLaserPointer,4;BigBolt,80;BottleBin,19;Ring,3;SteeringWheel,32;MoldPan,5;EggBeater,10;PickleJar,10;DustPan,32;Airhorn,3;ClownHorn,3;CashRegister,3;Candy,2;GoldBar,1;YieldSign,6;battery,10;cannedfood,15;matchbox,5;pills,2;tape,20
   serializedEnemies: Centipede,100;SandSpider,73;HoarderBug,28;Flowerman,13;Crawler,16;Blob,6;DressGirl,23;Puffer,28
